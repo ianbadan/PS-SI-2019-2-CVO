@@ -1,0 +1,64 @@
+body{
+    background-color: #42cef5;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+}
+section{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    display: block;
+    box-shadow: 10px 15px #43474d;
+}
+
+form{
+    font-size: 16px;
+}
+
+input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+.form-control{
+      font-size: 16px;
+	  height: auto;
+	  padding: 10px;
+}
+
+input[type="submit"]{
+    font-size: 16px;
+    height: auto;
+    padding: 10px 100px 10px 100px;
+    background-color: #428bca;
+    color: white;
+    border-style: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#novo-cadastro{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#wrapper{
+    margin-top:40px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

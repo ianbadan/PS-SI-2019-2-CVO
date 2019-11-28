@@ -1,0 +1,86 @@
+body{
+    background-color: #42cef5;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+}
+section{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 20px;
+    width: 700px;
+    height: 750px;
+    background-color: white;
+    display: block;
+    box-shadow: 10px 15px #43474d;
+}
+
+form{
+    font-size: 16px;
+}
+
+input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+input[type="text"]{
+    width: 350px;
+}
+
+input[type="password"]{
+    width: 350px;
+}
+
+.form-control{
+      font-size: 16px;
+	  height: auto;
+	  padding: 10px;
+}
+
+input[type="submit"]{
+    font-size: 16px;
+    height: auto;
+    padding: 10px 100px 10px 100px;
+    background-color: #428bca;
+    color: white;
+    border-style: none;
+    border-radius: 20px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+#novo-cadastro{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#wrapper{
+    margin-top:20px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#radio-form{
+    text-align: center;
+}
+
+.radio-button{
+    display: inline-block;
+    padding: 5px;
+}
+
+input[type="radio"]{
+    display: inline-block;
+}
